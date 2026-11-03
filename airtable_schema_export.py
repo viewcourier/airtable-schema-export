@@ -8,7 +8,7 @@ dictionary and CSV. Standard library only, Python 3.9+.
 
 Needs a personal access token with the schema.bases:read scope.
 
-Copyright (c) 2026 BASIT B.V. - MIT License
+Copyright (c) 2026 ViewCourier - MIT License
 """
 
 import argparse

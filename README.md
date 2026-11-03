@@ -149,4 +149,4 @@ The tests mock all HTTP (no network, no token needed) and cover pagination, link
 
 ## License
 
-MIT. Copyright (c) 2026 BASIT B.V.
+MIT. Copyright (c) 2026 ViewCourier
